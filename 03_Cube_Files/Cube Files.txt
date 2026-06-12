@@ -1,0 +1,11 @@
+# Cube Files
+
+This directory contains volumetric cube files generated from ORCA calculations.
+
+Files included:
+
+* homo.cube : Highest Occupied Molecular Orbital (HOMO).
+* lumo.cube : Lowest Unoccupied Molecular Orbital (LUMO).
+* density.cube : Electron density distribution.
+
+These files can be visualized using Chemcraft, Avogadro, VMD, or Multiwfn.

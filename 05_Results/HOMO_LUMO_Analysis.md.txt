@@ -1,0 +1,48 @@
+# HOMO–LUMO Analysis
+
+## Objective
+
+To investigate the frontier molecular orbitals and electronic properties of Curcumin_3OH.
+
+## Computational Method
+
+- Software: ORCA
+- Functional: B3LYP-D3BJ
+- Basis Set: def2-TZVP
+
+## Frontier Orbital Energies
+
+| Orbital | Energy (eV) |
+|----------|-------------|
+| HOMO | -2.079 |
+| LUMO | -1.659 |
+| HOMO–LUMO Gap | 0.420 |
+
+## Results
+
+The HOMO–LUMO energy gap was calculated to be 0.420 eV.
+
+A relatively small frontier orbital energy gap suggests:
+
+- Enhanced electronic softness
+- Improved charge-transfer capability
+- Increased chemical reactivity
+- Favorable electronic excitation behavior
+
+## Orbital Distribution
+
+The HOMO is primarily localized over the conjugated aromatic framework, indicating electron-rich regions.
+
+The LUMO exhibits delocalization across the molecular backbone, suggesting efficient electron acceptance upon excitation.
+
+## Figure
+
+See:
+
+- ../04_Figures/HOMO.png
+- ../04_Figures/LUMO.png
+- ../04_Figures/Energy_Gap.png
+
+## Conclusion
+
+The calculated HOMO–LUMO gap of 0.420 eV indicates that Curcumin_3OH possesses favorable electronic characteristics for charge-transfer processes and optical activity.

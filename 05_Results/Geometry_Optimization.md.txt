@@ -1,0 +1,28 @@
+# Geometry Optimization
+
+## Objective
+
+To determine the minimum-energy geometry of Curcumin_3OH.
+
+## Computational Method
+
+- Software: ORCA
+- Method: DFT
+- Functional: B3LYP-D3BJ
+- Basis Set: def2-TZVP
+
+## Results
+
+Geometry optimization converged successfully.
+
+The optimized structure corresponds to a local minimum on the potential energy surface and was used for all subsequent electronic structure calculations.
+
+## Figure
+
+See:
+
+- ../04_Figures/optimized_structure.png
+
+## Significance
+
+Accurate geometry optimization is essential for reliable prediction of electronic, optical, and thermodynamic properties.

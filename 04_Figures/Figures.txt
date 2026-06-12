@@ -1,0 +1,29 @@
+# Figures
+
+This directory contains all graphical outputs generated during the Density Functional Theory (DFT) and Time-Dependent Density Functional Theory (TD-DFT) investigation of Curcumin_3OH using ORCA.
+
+## Figure Descriptions
+
+### optimized_structure.png
+
+Optimized molecular geometry of Curcumin_3OH obtained after DFT geometry optimization. The structure corresponds to a local minimum on the potential energy surface and was used for all subsequent calculations.
+
+### HOMO.png
+
+Visualization of the Highest Occupied Molecular Orbital (HOMO), illustrating the electron-rich regions of the molecule and their contribution to electronic transitions.
+
+### LUMO.png
+
+Visualization of the Lowest Unoccupied Molecular Orbital (LUMO), highlighting the electron-accepting regions involved in excitation processes.
+
+### Energy_Gap.png
+
+Frontier molecular orbital energy diagram showing the HOMO energy, LUMO energy, and the calculated HOMO–LUMO energy gap (0.420 eV). The energy gap provides insight into the electronic reactivity and charge-transfer characteristics of the molecule.
+
+### UV_Vis.png
+
+TD-DFT simulated UV–Visible absorption spectrum of Curcumin_3OH. The strongest electronic transition was observed at λmax = 304.8 nm with an oscillator strength of f = 0.936.
+
+## Scientific Significance
+
+The figures presented in this directory provide visual insight into the structural stability, electronic properties, frontier orbital characteristics, and optical behavior of Curcumin_3OH. Together, they support the interpretation of molecular reactivity and excited-state properties obtained from the quantum chemical calculations.

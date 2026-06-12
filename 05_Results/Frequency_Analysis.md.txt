@@ -1,0 +1,19 @@
+# Frequency Analysis
+
+## Objective
+
+To verify that the optimized geometry corresponds to a true minimum on the potential energy surface.
+
+## Computational Method
+
+Frequency calculations were performed at the optimized DFT geometry.
+
+## Results
+
+No imaginary frequencies were observed.
+
+Therefore, the optimized structure represents a true local minimum.
+
+## Significance
+
+The absence of imaginary frequencies confirms the stability of the optimized molecular geometry and validates the use of the structure for further electronic property calculations.

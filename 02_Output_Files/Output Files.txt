@@ -1,0 +1,13 @@
+# Output Files
+
+This directory contains the primary ORCA output files generated during the DFT and TD-DFT calculations.
+
+Files included:
+
+* opt.out : Geometry optimization results.
+* freq2.out : Frequency analysis output.
+* sp2.out : Single-point energy output.
+* homo_lumo.out : Molecular orbital generation output.
+* tddft_small.out : TD-DFT excited-state calculation output.
+
+These files serve as the computational record of the study.

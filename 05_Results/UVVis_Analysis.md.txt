@@ -1,0 +1,44 @@
+# TD-DFT UV–Vis Analysis
+
+## Objective
+
+To investigate the electronic excitation behavior and optical properties of Curcumin_3OH.
+
+## Computational Method
+
+- Software: ORCA
+- Method: TD-DFT/TDA
+- Functional: B3LYP-D3BJ
+- Basis Set: def2-SVP
+
+## Major Electronic Transitions
+
+| Excited State | Wavelength (nm) | Oscillator Strength (f) |
+|--------------|----------------|-------------------------|
+| S1 | 304.8 | 0.936 |
+| S2 | 289.6 | 0.188 |
+| S3 | 282.7 | 0.099 |
+| S4 | 275.6 | 0.379 |
+
+## Key Result
+
+The strongest absorption band was observed at:
+
+- λmax = 304.8 nm
+- Oscillator Strength (f) = 0.936
+
+## Interpretation
+
+The high oscillator strength indicates a strongly allowed electronic transition.
+
+The absorption band arises from excitation involving frontier molecular orbitals and reflects the extended π-conjugation present in Curcumin_3OH.
+
+## Figure
+
+See:
+
+- ../04_Figures/UV_Vis.png
+
+## Conclusion
+
+TD-DFT calculations predict an intense absorption band in the UV region at 304.8 nm, demonstrating favorable electronic excitation characteristics and significant optical activity.

@@ -1,0 +1,42 @@
+# Global Reactivity Descriptors
+
+## Objective
+
+To evaluate the chemical reactivity and stability of Curcumin_3OH using conceptual DFT descriptors.
+
+## Koopmans-Based Equations
+
+IP = -EHOMO
+
+EA = -ELUMO
+
+η = (IP - EA)/2
+
+S = 1/(2η)
+
+χ = (IP + EA)/2
+
+ω = χ²/(2η)
+
+## Calculated Values
+
+| Descriptor | Value |
+|------------|---------|
+| Ionization Potential (IP) | 2.079 eV |
+| Electron Affinity (EA) | 1.659 eV |
+| Chemical Hardness (η) | 0.210 eV |
+| Softness (S) | 2.381 eV⁻¹ |
+| Electronegativity (χ) | 1.869 eV |
+| Electrophilicity Index (ω) | 8.319 eV |
+
+## Discussion
+
+The relatively low hardness and high softness indicate enhanced polarizability and chemical responsiveness.
+
+The electrophilicity index suggests a significant tendency to accept electronic charge during intermolecular interactions.
+
+The calculated descriptors support the observed electronic excitation behavior and frontier orbital characteristics.
+
+## Conclusion
+
+Global reactivity descriptors indicate that Curcumin_3OH possesses favorable charge-transfer capability, moderate stability, and enhanced electronic responsiveness.

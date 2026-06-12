@@ -1,0 +1,72 @@
+# DFT and TD-DFT Investigation of Curcumin_3OH
+
+## Abstract
+
+A comprehensive Density Functional Theory (DFT) and Time-Dependent Density Functional Theory (TD-DFT) investigation was performed on Curcumin_3OH using the ORCA quantum chemistry package. Structural optimization, vibrational frequency analysis, frontier molecular orbital analysis, global reactivity descriptor calculations, and UV-Visible spectral simulations were conducted to evaluate the molecular stability, electronic properties, and optical behavior of the compound.
+
+---
+
+## Objectives
+
+- Optimize molecular geometry
+- Verify structural stability
+- Analyze electronic properties
+- Determine HOMO-LUMO energy gap
+- Evaluate global reactivity descriptors
+- Simulate UV-Vis absorption spectrum
+
+---
+
+## Main Findings
+
+### HOMO Energy
+
+-2.079 eV
+
+### LUMO Energy
+
+-1.659 eV
+
+### HOMO-LUMO Gap
+
+0.420 eV
+
+### Maximum Absorption
+
+304.8 nm
+
+### Oscillator Strength
+
+0.936
+
+---
+
+## Scientific Significance
+
+The relatively small HOMO-LUMO gap indicates enhanced electronic responsiveness and efficient charge-transfer capability.
+
+The TD-DFT calculations predict a strong UV absorption band, demonstrating significant optical activity.
+
+---
+
+## Conclusion
+
+The DFT and TD-DFT results reveal that Curcumin_3OH exhibits favorable electronic and optical characteristics, making it an interesting candidate for further theoretical and experimental investigations.
+
+---
+
+## Software
+
+- ORCA 6.0
+- Avogadro
+- OriginPro 2026
+
+---
+
+## Author
+
+Rahul Sharma
+
+BS-MS Chemistry
+
+National Institute of Technology Agartala

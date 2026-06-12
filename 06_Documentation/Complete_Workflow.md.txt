@@ -1,0 +1,175 @@
+# Complete Computational Workflow
+
+## Project Title
+
+DFT and TD-DFT Investigation of Curcumin_3OH Using ORCA
+
+---
+
+# Workflow Overview
+
+The complete computational study was performed using Density Functional Theory (DFT) and Time-Dependent Density Functional Theory (TD-DFT) calculations implemented in the ORCA quantum chemistry package.
+
+---
+
+## Step 1: Molecular Structure Preparation
+
+Software:
+- Avogadro
+
+Tasks:
+- Build Curcumin_3OH molecular structure
+- Initial geometry optimization using molecular mechanics
+- Export structure in XYZ format
+
+Output:
+- opt.xyz
+
+---
+
+## Step 2: Geometry Optimization
+
+Input:
+- opt.inp
+
+Method:
+- B3LYP-D3BJ
+- def2-SVP
+
+Command:
+
+```bash
+orca opt.inp > opt.out
+```
+
+Output:
+- Optimized molecular geometry
+- Total electronic energy
+
+---
+
+## Step 3: Frequency Calculation
+
+Input:
+- freq2.inp
+
+Purpose:
+- Verify true minimum energy structure
+- Check for imaginary frequencies
+
+Command:
+
+```bash
+orca freq2.inp > freq2.out
+```
+
+Expected Result:
+- No imaginary frequencies
+
+---
+
+## Step 4: Single Point Energy Calculation
+
+Input:
+- sp2.inp
+
+Purpose:
+- Obtain accurate electronic energy
+
+Command:
+
+```bash
+orca sp2.inp > sp2.out
+```
+
+---
+
+## Step 5: HOMO-LUMO Analysis
+
+Input:
+- homo_lumo.inp
+
+Command:
+
+```bash
+orca homo_lumo.inp > homo_lumo.out
+```
+
+Generated Files:
+
+- homo.cube
+- lumo.cube
+
+Visualization:
+- Avogadro
+
+---
+
+## Step 6: Global Reactivity Descriptors
+
+Calculated using HOMO and LUMO energies.
+
+Descriptors:
+
+- Ionization Potential (IP)
+- Electron Affinity (EA)
+- Chemical Hardness (η)
+- Softness (S)
+- Electronegativity (χ)
+- Electrophilicity Index (ω)
+
+---
+
+## Step 7: TD-DFT UV-Vis Calculation
+
+Input:
+- tddft_small.inp
+
+Command:
+
+```bash
+orca tddft_small.inp > tddft_small.out
+```
+
+Results:
+- Excitation energies
+- Oscillator strengths
+- UV-Vis absorption spectrum
+
+---
+
+## Step 8: Figure Generation
+
+Software:
+
+- Avogadro
+- OriginPro
+
+Generated Figures:
+
+- Optimized Structure
+- HOMO
+- LUMO
+- HOMO-LUMO Gap
+- UV-Vis Spectrum
+
+---
+
+## Step 9: Scientific Interpretation
+
+All calculated properties were analyzed and summarized in the Results section.
+
+---
+
+## Software Used
+
+- ORCA 6.0
+- Avogadro
+- OriginPro 2026
+- Windows PowerShell
+
+---
+
+## Final Outcome
+
+A complete DFT and TD-DFT investigation of Curcumin_3OH including structural, electronic, and optical property analysis.

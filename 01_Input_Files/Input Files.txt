@@ -1,0 +1,13 @@
+# Input Files
+
+This directory contains all ORCA input files used for the quantum chemical investigation of Curcumin_3OH.
+
+Files included:
+
+* opt.inp : Geometry optimization calculation.
+* freq2.inp : Vibrational frequency analysis to verify the optimized structure.
+* sp2.inp : Single-point energy calculation.
+* homo_lumo.inp : Molecular orbital visualization calculations.
+* tddft_small.inp : TD-DFT excited-state calculations for UV-Vis spectrum prediction.
+
+These files enable complete reproduction of the computational workflow.

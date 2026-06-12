@@ -1,0 +1,28 @@
+# Results Summary
+
+## Project Overview
+
+This study presents a Density Functional Theory (DFT) and Time-Dependent Density Functional Theory (TD-DFT) investigation of Curcumin_3OH using the ORCA quantum chemistry package.
+
+## Calculations Performed
+
+- Geometry Optimization
+- Frequency Analysis
+- Single Point Energy Calculation
+- HOMO–LUMO Analysis
+- Global Reactivity Descriptor Calculation
+- TD-DFT UV–Vis Analysis
+
+## Key Findings
+
+| Property | Value |
+|-----------|-----------|
+| HOMO Energy | -2.079 eV |
+| LUMO Energy | -1.659 eV |
+| HOMO–LUMO Gap | 0.420 eV |
+| λmax | 304.8 nm |
+| Oscillator Strength (f) | 0.936 |
+
+## Conclusions
+
+The calculated HOMO–LUMO gap indicates enhanced electronic softness and charge-transfer capability. TD-DFT calculations revealed an intense absorption band at 304.8 nm, demonstrating favorable electronic excitation characteristics of Curcumin_3OH.

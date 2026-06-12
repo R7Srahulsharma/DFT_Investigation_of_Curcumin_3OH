@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "DFT Investigation of Curcumin_3OH Using ORCA"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+
+authors:
+  - family-names: Sharma
+    given-names: Rahul
+
+repository-code: "https://github.com/YOUR_USERNAME/DFT_Investigation_of_Curcumin_3OH"
+
+abstract: >
+  Complete Density Functional Theory (DFT) and Time-Dependent Density Functional Theory (TD-DFT)
+  investigation of Curcumin_3OH using ORCA. The project includes geometry optimization,
+  frequency analysis, HOMO-LUMO analysis, global reactivity descriptors, electron density
+  visualization, and UV-Visible spectrum prediction.
+
+keywords:
+  - DFT
+  - TDDFT
+  - ORCA
+  - Computational Chemistry
+  - Quantum Chemistry
+  - UV-Vis
+  - HOMO
+  - LUMO
+  - Curcumin
+
+license: MIT

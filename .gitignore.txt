@@ -1,0 +1,24 @@
+# ORCA temporary files
+*.tmp
+*.gbw.bak
+*.ges
+*.prop
+*.restart
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Backup files
+*.bak
+*.old
+
+# Large temporary outputs
+*.tmp

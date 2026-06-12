@@ -7,7 +7,7 @@ authors:
   - family-names: Sharma
     given-names: Rahul
 
-repository-code: "https://github.com/YOUR_USERNAME/DFT_Investigation_of_Curcumin_3OH"
+repository-code: "https://github.com/R7Srahulsharma/DFT_Investigation_of_Curcumin_3OH"
 
 abstract: >
   Complete Density Functional Theory (DFT) and Time-Dependent Density Functional Theory (TD-DFT)

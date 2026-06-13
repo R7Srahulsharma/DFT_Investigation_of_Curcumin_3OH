@@ -1,0 +1,39 @@
+# IR Spectroscopic Analysis
+
+## Overview
+
+Infrared (IR) vibrational analysis was performed for Curcumin_3OH using Density Functional Theory (DFT) calculations at the B3LYP-D3BJ/def2-SVP level of theory in ORCA. The calculated vibrational frequencies and corresponding IR intensities were used to generate the simulated IR spectrum.
+
+## Purpose of IR Analysis
+
+IR spectroscopy provides valuable information regarding molecular vibrations, functional groups, and structural characteristics of a molecule. The calculated IR spectrum serves as a theoretical reference for understanding the vibrational behavior of Curcumin_3OH and for comparison with future experimental studies.
+
+## Structural Validation
+
+The frequency calculation produced no significant imaginary frequencies, confirming that the optimized geometry corresponds to a true local minimum on the potential energy surface. This validates the reliability of the optimized molecular structure used for subsequent electronic structure calculations.
+
+## Major Vibrational Bands
+
+The simulated IR spectrum exhibited several prominent absorption bands corresponding to characteristic molecular vibrations:
+
+| Wavenumber (cm⁻¹) | Tentative Assignment                     |
+| ----------------- | ---------------------------------------- |
+| 1662              | C=O stretching vibration                 |
+| 1644              | Conjugated C=C stretching vibration      |
+| 1569              | Aromatic ring and C=C skeletal vibration |
+| 1491              | Aromatic skeletal stretching mode        |
+| 1275              | C–O stretching vibration                 |
+
+These bands are characteristic of conjugated aromatic systems and oxygen-containing functional groups present in Curcumin_3OH.
+
+## Spectral Characteristics
+
+The most intense absorption bands were observed within the fingerprint region (1800–1000 cm⁻¹), indicating strong vibrational contributions from carbonyl, aromatic, and ether functionalities. Additional weak-to-moderate intensity bands were observed in the low-frequency region, corresponding to bending and deformation vibrational modes.
+
+## Significance
+
+The calculated IR spectrum confirms the structural integrity of Curcumin_3OH and provides important vibrational information that complements the electronic structure analyses, including HOMO–LUMO and TD-DFT investigations. The absence of imaginary frequencies further supports the stability of the optimized molecular geometry.
+
+## Conclusion
+
+DFT-based vibrational analysis successfully characterized the infrared spectroscopic properties of Curcumin_3OH. The simulated IR spectrum revealed characteristic functional group vibrations and verified the stability of the optimized molecular structure, providing a reliable foundation for further computational and spectroscopic investigations.
